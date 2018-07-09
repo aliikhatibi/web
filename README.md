@@ -1,2 +1,16 @@
 # Welcome to Ali Khatibi's Personal Page
+## Timeline of Academic Career
+
+2017-Present **Podtdoc in Dpartment of Neurology and Neurosyrgery** _McGill University, Montreal, Canada_
+
+2015-2017 **Assistant Professor in Psychology** _Bilkent University, Ankara, Turkey_
+
+2014-2015 **Postdoc in department of Neuroscience** _Montreal University, Montreal, Canada_ 
+
+2009-2014 **Ph.D. In Psychology** _KU Leuven, Leuven, Belgium_
+
+2005-2008 **MSc In Psychology** _Shahid Beheshti University, Tehran, Iran_
+
+2000-2004 **BSc in Biology** _Guilan University, Rasht, Iran_
+
 
